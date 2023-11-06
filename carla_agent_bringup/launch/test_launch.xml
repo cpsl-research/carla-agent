@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="carla_agent_control" exec="do_nothing"/>
+</launch>
